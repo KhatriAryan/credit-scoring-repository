@@ -1,3 +1,3 @@
 # credit-scoring-repository
 project AMEX
-BY ARYAN KHATRI
+by aryan khatri
